@@ -1,8 +1,22 @@
-# Hello, World!
+# Youssef Agour
 
-I’m @Y-OUSSE-F, 
-I’m interested in Data Science & Machine Learning, and I am currently working towards a personal IBM Data Scientist certification, as well as my Undergraduate Degree concentrating in Digital Media & Technology, majoring in Global Business!
-I like to solve real problems and tell stories by using real data.
-Feel free to reach out to me on LinkedIn!: https://www.linkedin.com/in/youssef-agour/
+Hey there! 👋 I'm Youssef, a passionate Data Scientist with a keen interest in leveraging data to solve real-world problems and craft compelling narratives. Currently based in New York City, I'm currently employed in Data & Operations at a non-profit organization focused on workforce development. With experience across VC, Saas tech start-ups, and non-profits, I bring a wide breath of perspective with deep thought and attention to detail whever I go.
 
-Currently I work in Data & Operations at a non-profit organization in workforce development. I am located in New York City, and have worked in R-Studio, Python, & MySQL Workbench. I hope my profile brings you more insight into my interests and what sorts of analysis I like to conduct!
+## About Me
+
+- 🎓 Bachelors of Science concentrating in Digital Media & Technology, majoring in Global Business -- Fordham University, NYC
+- 💻 I'm IBM Data Scientist Certified.
+- 🌟 Sudoku Nerd
+- 🌆 Born and raised in NYC, but went to High School in Qatar!
+
+## What I Do
+
+- 📊 Deliver Data insights centered around operations & startegy to drive business goals.
+- 🐍 Proficient in Python, R-Studio, and MySQL Workbench.
+- 🤝 Passionate about leveraging data to drive impactful decisions acorss indurties of all range and size.
+ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/youssef-agour/)!
+
+## Get in Touch
+
+📧 Drop me an email at yoyuyoyu.san@gmail.com or my work at youssef@pursuit.org. Connect on LinkedIn if you're interested in collaborating, discussing data science, or just want to connect. I'd love to hear from you!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/youssef-agour/)!
