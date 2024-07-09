@@ -4,5 +4,5 @@ Hey there! I'm Youssef, a passionate Data Scientist with a keen interest in leve
 
 ## Get in Touch
 
-📧 Drop me an email at yoyuyoyu.san@gmail.com or my work at youssef@pursuit.org. Connect on LinkedIn if you're interested in collaborating, discussing data science, or just want to connect. I'd love to hear from you!
+📧 Drop me an email at yoyuyoyu.san@gmail.com or my work at youssef@pursuit.org. Reach out on LinkedIn if you're interested in collaborating, discussing data science, or just want to connect. I'd love to hear from you!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/youssef-agour/)!
