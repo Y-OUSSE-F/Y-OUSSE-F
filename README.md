@@ -1,6 +1,6 @@
 # Youssef Agour
 
-Hey there! I'm Youssef, an aspiring data scientist with a keen interest in leveraging data to solve real-world problems and tell real stories. Currently based in New York City, I'm currently a graduating student of Fordham University with an undergraduate degree in Global Business on the Tech Track. In my most recent role, I was employed in Data & Operations at a non-profit organization focused on workforce development. With experience across VC, Saas tech start-ups, and non-profits, I bring a wide breath of perspective with deep thought and attention to detail wherever I go.
+Hey there! I'm Youssef, an aspiring data scientist with a keen interest in leveraging data to solve real-world problems and tell real stories. Currently based in New York City, I'm a graduating student of Fordham University with a bachelor's degree in Global Business, minoring in Information Technology. In my most recent role, I was employed as a Data Analyst at a non-profit organization focused on workforce development, where I worked on the business operations team. With experience across VC, Saas tech start-ups, and non-profits, I bring a wide breath of perspective with deep thought and attention to detail wherever I go.
 
 ## Get in Touch
 
